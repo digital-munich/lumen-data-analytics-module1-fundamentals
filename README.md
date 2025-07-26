@@ -9,3 +9,7 @@ You’ll work with a curated version of Rossmann’s dataset throughout the guid
 ## Walmart Recruiting - Store Sales Forecasting Dataset
 In the exercises and independent project of Module 1, you’ll apply your skills to a curated Walmart dataset. 
 <br><br>Download [Walmart Recruiting - Store Sales Forecasting](walmart-store-sales.zip) dataset here. 
+
+
+--------
+These datasets are part of [Lumen's Data Analytics Program](https://digitalmunich.com/lumen/data-analytics/).
