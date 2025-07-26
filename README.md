@@ -5,12 +5,13 @@ Access the Rossmann and Walmart datasets here:
 You’ll work with a curated version of Rossmann’s dataset throughout the guided lessons of Module 1. This dataset is based on a public Kaggle competition, but we’ve prepared everything you need so you can focus on analysis without distractions.
 <br><br>Download [Rossmann Store Sales](rossmann-store-sales.zip) dataset here. 
 
+<br><br>
 
 ## Walmart Recruiting - Store Sales Forecasting Dataset
 In the exercises and independent project of Module 1, you’ll apply your skills to a curated Walmart dataset. 
 <br><br>Download [Walmart Recruiting - Store Sales Forecasting](walmart-store-sales.zip) dataset here. 
 
-<br><br><br>
+<br><br>
 ## Explore the Full Program
 The video tutorials for Module 1 are available on YouTube as part of the Fundamentals of Data Analytics series.  
 You’ll build core Excel and analytics skills using real-world datasets and structured guidance.
