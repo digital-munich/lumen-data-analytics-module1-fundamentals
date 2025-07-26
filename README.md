@@ -11,5 +11,5 @@ In the exercises and independent project of Module 1, you’ll apply your skills
 <br><br>Download [Walmart Recruiting - Store Sales Forecasting](walmart-store-sales.zip) dataset here. 
 
 
---------
+## 
 These datasets are part of [Lumen's Data Analytics Program](https://digitalmunich.com/lumen/data-analytics/).
