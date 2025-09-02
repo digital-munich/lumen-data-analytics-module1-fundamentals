@@ -10,6 +10,7 @@ The dataset is available in two files:
 - `rossmann-sales.xlsx` has sales data for selected 100 stores for 3 years
 - `rossmann-store.xlsx` has store information of 1115 stores.
 <br><br>
+
 The following are descriptions for the fields:
 
 - **Id** - an Id that represents a (Store, Date) duple within the test set
