@@ -5,7 +5,8 @@ Access the Rossmann and Walmart datasets here:
 You’ll work with a curated version of Rossmann’s dataset throughout the guided lessons of Module 1. This dataset is based on a public Kaggle competition, but we’ve prepared everything you need so you can focus on analysis without distractions.
 <br><br>Download [Rossmann Store Sales](rossmann-store-sales.zip) dataset here. 
 
-<br><br>### Data fields
+<br><br>
+### Data fields
 Most of the fields are self-explanatory. The following are descriptions for those that aren't.
 
 - **Id** - an Id that represents a (Store, Date) duple within the test set
