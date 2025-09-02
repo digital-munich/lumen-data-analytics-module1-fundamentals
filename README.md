@@ -40,7 +40,7 @@ You are provided with 3-years (2022-2024) sales data for 45 Walmart stores locat
 Walmart runs several promotional markdown events throughout the year. These markdowns precede prominent holidays, the four largest of which are the Super Bowl, Labor Day, Thanksgiving, and Christmas. 
 <br><br>
 The dataset is available in three files. Here are the field descriptions for each of the files:
-
+<br><br>
 #### walmart-sales.xlsx
 Within this file you will find the following fields:
 
@@ -82,3 +82,10 @@ You’ll build core Excel and analytics skills using real-world datasets and str
 ## 
 These datasets and guided lessons are part of [Lumen's Data Analytics Program](https://digitalmunich.com/lumen/data-analytics/), where we empower you to **Future-Proof Your Tech Career** and **Master in-demand data and AI skills and launch your dream career in just 5 weeks**.
 
+
+
+<br><br>
+## References
+The datasets are sourced from kaggle. You can view the originals here:
+- [Rossmann Sales Dataset](https://www.kaggle.com/competitions/rossmann-store-sales/)
+- [Walmart Store Sales Forecasting Dataset](https://www.kaggle.com/competitions/walmart-recruiting-store-sales-forecasting/)
