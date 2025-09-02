@@ -49,10 +49,10 @@ Within this file you will find the following fields:
 - **Date** - the week
 - **Weekly_Sales** -  sales for the given department in the given store
 - **IsHoliday** - whether the week is a special holiday week
-
+<br><br>
 #### walmart-stores.xlsx
 This file contains anonymized information about the 45 stores, indicating the type and size of store.
-
+<br><br>
 #### walmart-features.xlsx
 This file contains additional data related to the store, department, and regional activity for the given dates. It contains the following fields:
 
